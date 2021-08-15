@@ -1,5 +1,11 @@
 # README
 
+-version
+・MacOS
+・Ruby 2.5.3 (x86_64-linux)
+・Rails 5.0.7.2
+・MySQL 5.7
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
