@@ -17,7 +17,8 @@ gem 'jbuilder', '~> 2.5'
 
 group :test do
   gem 'rails-controller-testing', '1.0.2'
-  gem 'minitest-reporters',       '1.1.14'
+  gem 'minitest-reporters'
+  # テストの自動化
   gem 'guard',                    '2.16.2'
   gem 'guard-minitest',           '2.4.4'
 end
